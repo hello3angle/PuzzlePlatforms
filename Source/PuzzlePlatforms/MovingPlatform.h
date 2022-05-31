@@ -14,4 +14,6 @@ class PUZZLEPLATFORMS_API AMovingPlatform : public AStaticMeshActor
 {
 	GENERATED_BODY()
 	
+public:
+	AMovingPlatform();
 };
