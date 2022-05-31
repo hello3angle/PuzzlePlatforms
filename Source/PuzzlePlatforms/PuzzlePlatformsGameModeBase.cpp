@@ -10,6 +10,10 @@ APuzzlePlatformsGameModeBase::APuzzlePlatformsGameModeBase()
 	if (PlayerPawnBPClass.Class != NULL)
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
+<<<<<<< HEAD
 	}
 	DefaultPawnClass = PlayerPawnBPClass.Class;*/
+=======
+	}*/
+>>>>>>> develop1
 }
